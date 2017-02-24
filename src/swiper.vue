@@ -60,7 +60,6 @@ export default {
        durationTime:0.2,
        dotsIndex:0,
        autoer:null,
-       cc:null
     }
   },
   components:{
